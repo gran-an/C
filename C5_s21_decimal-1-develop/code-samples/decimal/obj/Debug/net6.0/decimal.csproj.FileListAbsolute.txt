@@ -1,0 +1,15 @@
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/decimal
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/decimal.deps.json
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/decimal.runtimeconfig.json
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/decimal.dll
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/ref/decimal.dll
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/bin/Debug/net6.0/decimal.pdb
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.csproj.AssemblyReference.cache
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.AssemblyInfoInputs.cache
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.AssemblyInfo.cs
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.csproj.CoreCompileInputs.cache
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.dll
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/ref/decimal.dll
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.pdb
+/home/kirill/Документы/School21/Projects/C5_s21_decimal-1/code-samples/decimal/obj/Debug/net6.0/decimal.genruntimeconfig.cache
